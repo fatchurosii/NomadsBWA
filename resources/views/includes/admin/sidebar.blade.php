@@ -25,7 +25,7 @@
       </li>
 
     <li class="nav-item">
-        <a class="nav-link" href="index.html">
+    <a class="nav-link" href="{{route('gallery.index')}}">
           <i class="fas fw-fa fa-images"></i>
           <span>Galery Travel</span></a>
       </li>
